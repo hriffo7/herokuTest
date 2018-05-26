@@ -5,7 +5,9 @@
   "license": "MIT", 
   "scripts": {
     "start": "node app.js"
-  },
+  }, "engines": {
+    "node": "6.4.x"
+  }, 
   "dependencies": {
     "express": "^4.16.3",
     "nodemon": "^1.17.5"
